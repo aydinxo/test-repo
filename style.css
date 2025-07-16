@@ -14,3 +14,6 @@ body{
     height: 200px;
     background-color: lightgray;
 }
+p{
+    color: blue;
+}

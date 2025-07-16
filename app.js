@@ -1,1 +1,2 @@
-console.log('im hero in frontend');
+let username = 'aydinxo';
+console.log(username)
